@@ -1,0 +1,100 @@
+CARRIER ALPHA LOGISTICS
+FREIGHT SERVICES AGREEMENT
+Version 1.0
+Effective Date: January 1, 2024
+Expiry Date: December 31, 2024
+
+================================================================================
+SECTION 1 – PARTIES
+================================================================================
+This agreement is between Carrier Alpha Logistics ("Carrier") and any logistics
+company ("Customer") that accepts these terms upon invoice submission.
+
+================================================================================
+SECTION 2 – SERVICE TYPES
+================================================================================
+2.1 Standard Delivery    – Transit time: 5–7 business days
+2.2 Express Delivery     – Transit time: 2–3 business days
+2.3 Overnight Delivery   – Next business day delivery by 10:30 AM
+
+================================================================================
+SECTION 3 – ZONE DEFINITIONS
+================================================================================
+Zone 1: Intra-city (< 50 km)
+Zone 2: Regional (50–200 km)
+Zone 3: National (200–800 km)
+Zone 4: Cross-country (800–2500 km)
+Zone 5: Remote / Extended area (> 2500 km)
+
+================================================================================
+SECTION 4 – BASE RATE TABLE (INR per kg)
+================================================================================
+
+4.1 Standard Delivery Rates
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  2.50   |   2.00   |   1.80    |  1.50
+    2  |  3.20   |   2.60   |   2.30    |  1.90
+    3  |  4.10   |   3.40   |   3.00    |  2.50
+    4  |  5.50   |   4.60   |   4.10    |  3.40
+    5  |  7.00   |   6.00   |   5.40    |  4.50
+
+4.2 Express Delivery Rates (1.4× standard)
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  3.50   |   2.80   |   2.52    |  2.10
+    2  |  4.48   |   3.64   |   3.22    |  2.66
+    3  |  5.74   |   4.76   |   4.20    |  3.50
+    4  |  7.70   |   6.44   |   5.74    |  4.76
+    5  |  9.80   |   8.40   |   7.56    |  6.30
+
+4.3 Overnight Delivery Rates (2.0× standard)
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  5.00   |   4.00   |   3.60    |  3.00
+    2  |  6.40   |   5.20   |   4.60    |  3.80
+    3  |  8.20   |   6.80   |   6.00    |  5.00
+    4  | 11.00   |   9.20   |   8.20    |  6.80
+    5  | 14.00   |  12.00   |  10.80    |  9.00
+
+================================================================================
+SECTION 5 – SURCHARGES
+================================================================================
+5.1 Fuel Surcharge
+    Rate: 5.5% of base freight charge
+    Applied to: All shipments
+    Reviewed: Monthly; rate locked for calendar month of shipment
+
+5.2 Residential Delivery Surcharge
+    Rate: INR 8.00 flat per shipment
+    Applied to: Shipments delivered to residential addresses only
+    Not applicable to commercial/business addresses
+
+5.3 No other surcharges are permitted under this agreement.
+    Any surcharge not listed in Sections 5.1–5.2 is not billable.
+
+================================================================================
+SECTION 6 – BILLING RULES
+================================================================================
+6.1 Chargeable weight is the greater of actual weight and dimensional weight.
+    Dimensional weight = (L × W × H in cm) / 5000.
+6.2 Weight is rounded up to the nearest 0.1 kg.
+6.3 Invoices must include a valid tracking ID for each shipment line.
+6.4 Duplicate invoice IDs within a billing period will be rejected.
+6.5 Invoices must be submitted within 90 days of shipment date.
+
+================================================================================
+SECTION 7 – DISPUTE RESOLUTION
+================================================================================
+7.1 Customer may dispute any charge within 30 days of invoice date.
+7.2 Disputed amounts are suspended pending investigation.
+7.3 Carrier must respond within 15 business days.
+
+================================================================================
+SECTION 8 – EFFECTIVE DATE AND SUPERSESSION
+================================================================================
+This agreement supersedes all prior oral or written agreements between the
+parties for the period January 1, 2024 through December 31, 2024.

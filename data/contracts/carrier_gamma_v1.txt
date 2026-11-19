@@ -1,0 +1,98 @@
+CARRIER GAMMA FREIGHT SOLUTIONS
+FREIGHT SERVICES MASTER AGREEMENT
+Version 1.0
+Effective Date: January 1, 2024
+Expiry Date: June 5, 2024
+
+================================================================================
+SECTION 1 – PARTIES
+================================================================================
+This agreement governs freight billing between Carrier Gamma Freight Solutions ("Carrier")
+and any Customer accepting invoices under this agreement.
+
+================================================================================
+SECTION 2 – SERVICE TYPES
+================================================================================
+2.1 Standard Delivery    – Transit time: 4–6 business days
+2.2 Express Delivery     – Transit time: 1–2 business days
+2.3 Overnight Delivery   – Same/next business day delivery
+
+================================================================================
+SECTION 3 – ZONE DEFINITIONS
+================================================================================
+Zone 1: Metro (< 75 km)
+Zone 2: Sub-regional (75–300 km)
+Zone 3: National core (300–1000 km)
+Zone 4: Long haul (1000–3000 km)
+Zone 5: Remote (> 3000 km)
+
+================================================================================
+SECTION 4 – BASE RATE TABLE (INR per kg)
+================================================================================
+
+4.1 Standard Delivery Rates
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  2.80   |   2.20   |   1.95    |  1.60
+    2  |  3.50   |   2.85   |   2.50    |  2.05
+    3  |  4.50   |   3.70   |   3.25    |  2.70
+    4  |  5.90   |   4.90   |   4.30    |  3.60
+    5  |  7.50   |   6.40   |   5.75    |  4.80
+
+4.2 Express Delivery Rates (1.5× standard)
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  4.20   |   3.30   |   2.93    |  2.40
+    2  |  5.25   |   4.28   |   3.75    |  3.08
+    3  |  6.75   |   5.55   |   4.88    |  4.05
+    4  |  8.85   |   7.35   |   6.45    |  5.40
+    5  | 11.25   |   9.60   |   8.63    |  7.20
+
+4.3 Overnight Delivery Rates (2.2× standard)
+
+  Zone | 0–10 kg | 10–50 kg | 50–100 kg | 100 kg+
+  -----|---------|----------|-----------|--------
+    1  |  6.16   |   4.84   |   4.29    |  3.52
+    2  |  7.70   |   6.27   |   5.50    |  4.51
+    3  |  9.90   |   8.14   |   7.15    |  5.94
+    4  | 12.98   |  10.78   |   9.46    |  7.92
+    5  | 16.50   |  14.08   |  12.65    | 10.56
+
+================================================================================
+SECTION 5 – SURCHARGES
+================================================================================
+5.1 Fuel Surcharge
+    Rate: 6.0% of base freight charge
+    Applied to: All shipments
+    Adjusted quarterly
+
+5.2 Handling Surcharge (Special Goods)
+    Rate: INR 12.00 flat per shipment
+    Applied to: Shipments flagged as fragile, hazardous class D (non-dangerous),
+                or oversized (longest side > 120 cm)
+    Not applicable to standard goods
+
+5.3 No other surcharges are permitted under this agreement.
+    Surcharges not listed in Sections 5.1–5.2 are not billable by the Carrier.
+
+================================================================================
+SECTION 6 – BILLING RULES
+================================================================================
+6.1 Invoices must reference a unique tracking ID per shipment.
+6.2 Weight billed must match actual measured weight within ±0.5 kg tolerance.
+6.3 Invoices submitted more than 60 days after delivery date are void.
+6.4 Duplicate invoice numbers within a billing cycle are automatically rejected.
+
+================================================================================
+SECTION 7 – DISPUTE AND AUDIT RIGHTS
+================================================================================
+7.1 Customer may request weight-audit certificates within 45 days of invoice.
+7.2 Rate disputes must be raised within 30 days with supporting shipment data.
+
+================================================================================
+SECTION 8 – AGREEMENT TERM
+================================================================================
+Effective January 1, 2024 through December 31, 2024.
+Supersedes all previous Carrier Beta rate schedules.

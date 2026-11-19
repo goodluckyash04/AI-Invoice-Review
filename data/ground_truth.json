@@ -1,0 +1,122 @@
+[
+  {
+    "invoice_id": "INV-ALPHA-2024-001",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-002",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-003",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-004",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-005",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-006",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-007",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-008",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-009",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["RATE_MISMATCH"],
+    "expected_disputed_amount": 0.0
+  },
+  {
+    "invoice_id": "INV-ALPHA-2024-010",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-BETA-2024-001",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-BETA-MISSING-001",
+    "expected_outcome": "needs_review",
+    "exception_types": ["MISSING_EVIDENCE"],
+    "expected_disputed_amount": 0.0
+  },
+  {
+    "invoice_id": "INV-BETA-FUEL-ERR",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["SURCHARGE_MISMATCH"],
+    "expected_disputed_amount": 15.50
+  },
+  {
+    "invoice_id": "INV-BETA-DUP-001",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["DUPLICATE_INVOICE"],
+    "expected_disputed_amount": 27.98
+  },
+  {
+    "invoice_id": "INV-GAMMA-2024-001",
+    "expected_outcome": "valid",
+    "exception_types": [],
+    "expected_disputed_amount": null
+  },
+  {
+    "invoice_id": "INV-GAMMA-OVERLAP-001",
+    "expected_outcome": "needs_review",
+    "exception_types": ["CONTRACT_VERSION_CONFLICT"],
+    "expected_disputed_amount": 0.0
+  },
+  {
+    "invoice_id": "INV-EXCEPTION-001",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["RATE_MISMATCH"],
+    "expected_disputed_amount": 40.00
+  },
+  {
+    "invoice_id": "INV-EXCEPTION-002",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["WEIGHT_DISCREPANCY"],
+    "expected_disputed_amount": 86.51
+  },
+  {
+    "invoice_id": "INV-EXCEPTION-003",
+    "expected_outcome": "exception_detected",
+    "exception_types": ["UNSUPPORTED_SURCHARGE"],
+    "expected_disputed_amount": 25.00
+  },
+  {
+    "invoice_id": "INV-EXCEPTION-004",
+    "expected_outcome": "needs_review",
+    "exception_types": ["MISSING_TRACKING_ID"],
+    "expected_disputed_amount": 0.0
+  }
+]
